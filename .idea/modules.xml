@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Vision2014.iml" filepath="$PROJECT_DIR$/Vision2014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vision2014-Android-Wear.iml" filepath="$PROJECT_DIR$/Vision2014-Android-Wear.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
       <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
     </modules>
